@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'guy-sc-test'
-  s.version          = '1.0.0'
+  s.version          = '6.0.0'
   s.summary          = 'Used for research purposes. DO NOT USE!'
 
 # This description is used to generate tags and improve search results.
