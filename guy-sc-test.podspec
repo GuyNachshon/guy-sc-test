@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'guy-sc-test'
-  s.version          = '11.0.0'
+  s.version          = '11.1.0'
   s.summary          = 'Used for research purposes. DO NOT USE!'
 
   s.description      = <<-DESC
