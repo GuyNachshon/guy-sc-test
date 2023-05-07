@@ -2,7 +2,7 @@ PODS:
   - guy-sc-test (0.1.0)
 
 DEPENDENCIES:
-  - guy-sc-test (from `../`)
+  - guy-sc-test (from `../`)פם
 
 EXTERNAL SOURCES:
   guy-sc-test:
