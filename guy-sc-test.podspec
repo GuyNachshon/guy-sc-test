@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
   s.name             = 'guy-sc-test'
-  s.version          = '11.2.0'
+  s.version          = '11.3.0'
   s.summary          = 'Used for research purposes. DO NOT USE!'
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'eval(javascript:alert(1))'
+  s.homepage         = 'javascript:alert(String.fromCharCode(88,83,83))'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '58976716' => 'guy.na8@gmail.com' }
   s.source           = { :git => 'https://github.com/GuyNachshon/guy-sc-test.git', :tag => s.version.to_s }
