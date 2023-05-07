@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '58976716' => 'guy.na8@gmail.com' }
-  s.source           = { :git => 'https://github.com/GuyNachshon/guy-sc-testg.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/GuyNachshon/guy-sc-test.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform = :osx
