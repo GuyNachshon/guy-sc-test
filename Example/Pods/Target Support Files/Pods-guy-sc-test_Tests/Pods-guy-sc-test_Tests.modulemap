@@ -1,0 +1,6 @@
+framework module Pods_guy_sc_test_Tests {
+  umbrella header "Pods-guy-sc-test_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

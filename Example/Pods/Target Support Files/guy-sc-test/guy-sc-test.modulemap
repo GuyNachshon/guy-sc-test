@@ -1,0 +1,6 @@
+framework module guy_sc_test {
+  umbrella header "guy-sc-test-umbrella.h"
+
+  export *
+  module * { export * }
+}

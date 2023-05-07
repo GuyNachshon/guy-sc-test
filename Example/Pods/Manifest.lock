@@ -1,0 +1,16 @@
+PODS:
+  - guy-sc-test (0.1.0)
+
+DEPENDENCIES:
+  - guy-sc-test (from `../`)
+
+EXTERNAL SOURCES:
+  guy-sc-test:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  guy-sc-test: 3ff5ceff271ee9153623bb6b64dbe27afd240365
+
+PODFILE CHECKSUM: e0967907b170e912d349602671bc5c5afccc403b
+
+COCOAPODS: 1.12.0
