@@ -1,0 +1,6 @@
+use_frameworks!
+target 'guy-sc-test_Tests' do
+  pod 'guy-sc-test', :path => '../'
+  
+  
+end
