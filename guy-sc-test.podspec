@@ -15,6 +15,6 @@ TODO: Add long description of the pod here.
   s.platform = :osx
   s.osx.deployment_target = "13.1.99"
 
-  s.source_files = 'guy-sc-test/*'
+  s.source_files = 'guy-sc-test/Classes/**/*'
 
 end
